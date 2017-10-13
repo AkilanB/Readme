@@ -1,3 +1,3 @@
 #AKILAN B
-https://github.com/AkilanB/Readme.git
+https://157.50.23.191/AkilanB
 #MYPROFILE
