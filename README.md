@@ -1,3 +1,3 @@
 # AKILAN.B
-http://52.33.140.163/Readme/
+http://52.33.140.163/README/
 # MYPROFILE
